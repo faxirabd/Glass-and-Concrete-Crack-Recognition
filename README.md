@@ -15,7 +15,7 @@ Partition based ULBP method:
 
 This method calculates the Uniform Local Binary Pattern (ULBP) code for each of the input images. The input image is partitioned into 9 equal blocks and for each of the blocks, a histogram of ULBP is formed. The 9 histograms were normalized and concatenated before feeding into a classifier.
 
-Glass and Concrete Crack Recognition Prototype:
+Prototype: Glass and Concrete Crack Recognition
 
 ![image](https://github.com/faxirabd/Glass-and-Concrete-Crack-Recognition/assets/115953037/16ef9ee8-eb0d-48c2-a6ed-656e7787b01b)
 
